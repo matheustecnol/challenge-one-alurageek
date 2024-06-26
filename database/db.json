@@ -1,0 +1,27 @@
+{
+    "products": [
+
+        {
+            "name": "Flash",
+            "price": "30",
+            "image": "",
+            "id": 1
+        },
+        {
+            "name": "Batman",
+            "price": "20",
+            "image": "",
+            "id": 1
+        },
+        {
+            "name": "Darth Vader",
+            "price": "10",
+            "image": "",
+            "id": 1
+        }
+        
+              
+
+    ]
+
+}
